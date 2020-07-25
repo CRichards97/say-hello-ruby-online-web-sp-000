@@ -4,4 +4,5 @@ def say_hello ("Gabriela!")
 
 end
 
-say_hello
+puts say_hello
+
